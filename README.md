@@ -13,7 +13,8 @@
 Тренировочное веб-приложение с намеренно заложенными уязвимостями.
 - [Чек-лист тестирования регистрации](https://github.com/rlowhat/QA-Portfolio/blob/main/bug-reports-OWASP-Juice-Shop)
 - [Найденные баги](https://github.com/rlowhat/QA-Portfolio/blob/main/checklist-registration-OWASP-Juice-Shop)
-
+### 2. Python-скрипт автоматически открывающий Juice Shop для проверки нескольких пунктов из чек-листа
+- [Проект на Python для автоматизации](https://github.com/rlowhat/QA-Portfolio/blob/main/test-registation).
 ## Контакты
 - Email: zaikinae628@gmail.com
 - Telegram: @rlowhat
