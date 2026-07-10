@@ -12,7 +12,7 @@
 ### 1. OWASP Juice Shop — [08.07.2026]
 Тренировочное веб-приложение с намеренно заложенными уязвимостями.
 - [Чек-лист тестирования регистрации](./juice-shop/checklist-registration.md)
-- [Найденные баги](./checklist registration OWASP Juice Shop)
+- [Найденные баги](https://github.com/rlowhat/QA-Portfolio/blob/main/checklist-registration-OWASP-Juice-Shop)
 
 ## Контакты
 - Email: zaikinae628@gmail.com
