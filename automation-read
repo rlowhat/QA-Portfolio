@@ -1,5 +1,5 @@
 Автоматизированный тест формы регистрации — OWASP Juice Shop
-(Проект на Python для автоматизации (https://github.com/rlowhat/QA-Portfolio/blob/main/test-registation))
+[Проект на Python для автоматизации](https://github.com/rlowhat/QA-Portfolio/blob/main/test-registation)
 Что делает этот скрипт: открывает форму регистрации в браузере (автоматически) и проверяет несколько пунктов из ручного чек-листа:
 1. Пустой email -> должна появиться ошибка
 2. Email без "@" -> должна появиться ошибка
