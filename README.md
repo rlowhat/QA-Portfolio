@@ -18,7 +18,7 @@
 | Тест-дизайн | Чек-листы, тест-кейсы, баг-репорты |
 
 \\ Структура репозитория
-- `checklist-registration-OWASP-Juice-Shop.md` — чек-лист регистрации
+- `checklist-registration-OWASP-Juice-Shop` — чек-лист регистрации
 - `bug-reports-OWASP-Juice-Shop.md` — баг-репорты
 - `test-registration/` — Python-скрипт автоматизации
 
