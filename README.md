@@ -20,7 +20,7 @@
 \\ Структура репозитория
 - `checklist-registration-OWASP-Juice-Shop` — чек-лист регистрации
 - `bug-reports-OWASP-Juice-Shop` — баг-репорты
-- `test-registration/` — Python-скрипт автоматизации
+- `test-registation` — Python-скрипт автоматизации
 
 \\ Проекты
 
