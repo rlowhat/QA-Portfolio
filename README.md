@@ -1,14 +1,14 @@
-\\ QA Portfolio — Екатерина (rlowhat)
+## QA Portfolio — Екатерина (rlowhat)
 
 Начинающий Manual QA. Здесь собраны учебные проекты: чек-листы, тест-кейсы, баг-репорты и скрипт автоматизации на Python + Playwright.
 
-\\ О себе
+## О себе
 - Среднее профессиональное образование (коммерция)
 - Самостоятельно изучаю тестирование: жизненный цикл бага, приоритизация, тест-дизайн, SQL, Postman, Jira/TestRail
 - Английский: A2 (в процессе изучения)
 - Ищу позицию Junior QA (удалённо / офис)
 
-\\ Навыки и инструменты
+## Навыки и инструменты
 | Категория | Инструменты |
 
 | Тест-менеджмент | Jira, TestRail |
@@ -17,22 +17,22 @@
 | Базы данных | SQL (базовые запросы) |
 | Тест-дизайн | Чек-листы, тест-кейсы, баг-репорты |
 
-\\ Структура репозитория
-- `checklist-registration-OWASP-Juice-Shop` — чек-лист регистрации
-- `bug-reports-OWASP-Juice-Shop` — баг-репорты
-- `test-registation` — Python-скрипт автоматизации
+## Структура репозитория
+- `checklist-registration-OWASP-Juice-Shop.md` — чек-лист регистрации
+- `bug-reports-OWASP-Juice-Shop.md` — баг-репорты
+- `test-registation.md` — Python-скрипт автоматизации
 
-\\ Проекты
+## Проекты
 
  1. OWASP Juice Shop — ручное тестирование (08.07.2026)
 Тренировочное веб-приложение с намеренно заложенными уязвимостями.
-- [Чек-лист тестирования регистрации](./checklist-registration-OWASP-Juice-Shop)
-- [Найденные баги](./bug-reports-OWASP-Juice-Shop)
+- [Чек-лист тестирования регистрации](./checklist-registration-OWASP-Juice-Shop.md)
+- [Найденные баги](./bug-reports-OWASP-Juice-Shop.md)
 
  2. Автоматизация регистрации на Python + Playwright
 Скрипт проверяет несколько пунктов из чек-листа: пустой email, несовпадение паролей, валидные данные.
-- [Скрипт и описание](./test-registration)
-
-\\ Контакты
+- [Скрипт и описание](./test-registration.md)
+  
+## Контакты
 - Email: zaikinae628@gmail.com
 - Telegram: @rlowhat
