@@ -26,12 +26,12 @@
 
  1. OWASP Juice Shop — ручное тестирование (08.07.2026)
 Тренировочное веб-приложение с намеренно заложенными уязвимостями.
-- [Чек-лист тестирования регистрации](./checklist-registration-OWASP-Juice-Shop.md)
-- [Найденные баги](./bug-reports-OWASP-Juice-Shop.md)
+- [Чек-лист тестирования регистрации](./checklist-registration-OWASP-Juice-Shop)
+- [Найденные баги](./bug-reports-OWASP-Juice-Shop)
 
  2. Автоматизация регистрации на Python + Playwright
 Скрипт проверяет несколько пунктов из чек-листа: пустой email, несовпадение паролей, валидные данные.
-- [Скрипт и описание](./test-registration/)
+- [Скрипт и описание](./test-registration)
 
 \\ Контакты
 - Email: zaikinae628@gmail.com
